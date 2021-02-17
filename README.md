@@ -1,8 +1,5 @@
 # Muhimur
 
-<!--
-**muhimur9049/muhimur9049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Website:** https://muhimur.me
 **Twitter:** https://twitter.com/Muhimur_
 **Snapchat:** muhimur
