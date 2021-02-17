@@ -1,9 +1,8 @@
 # Muhimur
-
-**Website:** https://muhimur.me
-**Twitter:** https://twitter.com/Muhimur_
-**Snapchat:** muhimur
-**Discord:** Muhimur#2089 
+**Website:** https://muhimur.me/
+**Twitter:** https://twitter.com/Muhimur_/
+**Snapchat:** muhimur/
+**Discord:** Muhimur#2089/
 
 
 
