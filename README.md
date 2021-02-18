@@ -13,22 +13,22 @@ I am currently in High School, and my pronouns are **he/him**. Feel free to cont
 
 ## Current Occupations
 
-**-> Co-Founder of Storm Developmentz**
+**-> Co-Founder of Storm Developmentz***
 I am the Co-Founder of [Storm Developmentz](https://stormdevelopmentz.xyz/home), which is a Discord bots development Team with individuals with a lot of past experience. We focus on providing users and servers with top-quality bots, that are relibable, effecient, and trustworthy. The most unique part about us is that most of the bots and features we develop, cannot be found within public bots. 
 
-**-> Developer for StormBeatz**
+**-> Developer for StormBeatz***
 I am a Developer for StormBeatz, a highly advanced music bot, that can be highly configured with plenty of commands and settings with about 8500 servers. Sure, it may not be the biggest bot, but it's growing on a daily basis everyday. When using StormBeatz, it will liven up your music to its fullest potential, with commands and features no other music bot has. StormBeatz is also associated with Storm Developmentz, as it is under that Development Team.
 
-**-> BACON ARMY Head Admin / Bot Developer**
+**-> BACON ARMY Head Admin / Bot Developer***
 I am the Head Admin for BACON ARMY, and also the Community Manager. The Discord server has over 160,000 members and is constantly growing everyday, with the owner being [MyUsernamesThis](https://youtube.com/myusernamesthis). I also manage and code some of the bots in the community. 
 
-**-> Jailbreak Moderator**
+**-> Jailbreak Moderator***
 I am a Moderator for Jailbreak, a very popular game on Roblox. The Discord server has over 190,000 members, with hundreds of thousands of users playing the game every single day. 
 
-**-> AedusMC Bot Developer**
+**-> AedusMC Bot Developer***
 I am a Bot Developer for AedusMC, an upcoming Minecraft server with a very unique gamemode. Stay tuned for it! 
 
-**-> Plenty more communities!**
+**-> Plenty more communities!***
 
 ## What am I looking to work right now?
 
