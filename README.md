@@ -1,8 +1,11 @@
 ## Muhimur
 
 **Website:** https://muhimur.me
+
 **Twitter:** https://twitter.com/Muhimur_
+
 **Snapchat:** muhimur
+
 **Discord:** Muhimur#2089
 
 ## Who am I?
@@ -14,7 +17,8 @@ I am currently in High School, and my pronouns are **he/him**. Feel free to cont
 
 ## Current Occupations
 
-**-> Co-Founder of Storm Developmentz***
+**-> Co-Founder of Storm Developmentz**
+
 I am the Co-Founder of [Storm Developmentz](https://stormdevelopmentz.xyz/home), which is a Discord bots development Team with individuals with a lot of past experience. We focus on providing users and servers with top-quality bots, that are relibable, effecient, and trustworthy. The most unique part about us is that most of the bots and features we develop, cannot be found within public bots. 
 
 **-> Developer for StormBeatz***
