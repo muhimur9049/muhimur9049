@@ -54,4 +54,5 @@ Some places I am interested in working at:
 If you can help me find any work with consistent pay, please reach out and let me know!
 
 [![Muhimur's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=muhimur9049&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://muhimur.me/)
+
 [![Muhimur's GitHub Statistics](https://github-readme-streak-stats.herokuapp.com/?user=muhimur9049&theme=algolia)](https://muhimur.me/)
