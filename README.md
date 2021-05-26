@@ -10,7 +10,7 @@
 
 ## Who am I?
 
-I am both a Basketball and Programming enthusiast. Not only do I love watching and playing basketball, but I also love to code and go beyond the limits of what other Discord bots might not have. I have been playing basketball for about 3-4 years now, and I love it. Programming on the other hand, specifically in JavaScript, I've been doing for around a year while I've been doing Discord bot development for over a few months now, which I like doing!
+I am both a basketball and programming enthusiast. Not only do I love watching and playing basketball, but I also love to code and go beyond the limits of what other Discord bots might not have. I have been playing basketball for about 3-4 years now, and I love it. Programming on the other hand, specifically in JavaScript, I've been doing for around a year while I've been doing Discord bot development for over a few months now, which I like doing!
 
 I've also got experience when it comes to interacting with different APIs, such as Discord, YouTube, Spotify, SoundCloud, Tidal, and other streaming platforms. I've also got experience when it comes to setting up other databases such as SQLite, MySQL and PostgreSQL.
 
