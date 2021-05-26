@@ -16,7 +16,7 @@ I've also got experience when it comes to interacting with different APIs, such 
 
 I am currently in High School, and my pronouns are **he/him**. Feel free to contact me through any of the social media links I mentioned above! For the quickest response, try and reach out to me on Discord! :)
 
-## Where I currently work / What I currently work for
+## My current occupations
 
 **-> Co-Founder of Storm Developmentz**
 
