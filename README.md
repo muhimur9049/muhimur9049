@@ -2,7 +2,7 @@
 
 **Website:** https://muhimur.me
 
-**Twitter:** https://twitter.com/Muhimur_
+**Twitter:** [@Muhimur_](https://twitter.com/Muhimur_)
 
 **Snapchat:** muhimur
 
