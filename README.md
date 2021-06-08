@@ -6,7 +6,7 @@
 
 **Snapchat:** muhimur
 
-**Discord:** Muhimur#1248
+**Discord:** Muhimur#1969
 
 ## Who am I?
 
